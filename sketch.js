@@ -55,7 +55,6 @@ function preload() {
   img14= loadImage('m25.1.png');
   img15= loadImage('botaomenu.png');
   img16= loadImage('baufechado.png');
-  img17= loadImage('bauaberto.png');
   img18= loadImage('bauouro.png');
   img19= loadImage('c5.1.png');
   img20= loadImage('avatar2.png'); 
