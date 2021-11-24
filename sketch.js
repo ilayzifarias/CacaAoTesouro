@@ -44,7 +44,6 @@ function preload() {
   img2= loadImage('niveis2.jpg');
   img3= loadImage('medio.jpg');
   img4= loadImage('facil.jpg');
-  img5= loadImage('teste1.gif');
   img6= loadImage('tata1.png');
   img7= loadImage('fundo.png');
   img8= loadImage('ila2.png');
